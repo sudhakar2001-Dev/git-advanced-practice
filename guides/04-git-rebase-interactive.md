@@ -89,7 +89,7 @@ git rebase -i HEAD~3
 # 6. Save and close. Done! ✅
 
 # 7. Force push to update your remote branch:
-git push --force
+git push --force-lease
 ```
 
 ---
